@@ -16,7 +16,7 @@
 | `resources/xiumi-automation.md` | 秀米自动化选择器与十个坑 |
 | `assets/ornaments/` | 103 件成品纹样（回纹、菱格、印章、角花、冰裂、纸底） |
 | `assets/motion/` | 9 个成品动效 GIF |
-| `assets/cover/` | 中式封面成品 ×4（2.35:1 / 1:1，带字与不带字） |
+| `assets/cover/` | 中式封面成品 ×2（2.35:1 / 1:1，已叠字） |
 | `assets/demo/` | 示例长图切段 ×6，用来看"一次渲染再切片"的效果 |
 
 ## 快装

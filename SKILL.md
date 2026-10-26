@@ -132,7 +132,7 @@ description: 公众号推文生产流水线：给一批素材（版头/logo/照�
 |---|---|
 | `assets/ornaments/` | 103 件成品：回纹（三密度）、菱格、水波、分割线、圆印、方印、编号徽章、角花、标签、宣纸底、冰裂纹 |
 | `assets/motion/` | 9 个成品动效 GIF，底色已是宣纸色 |
-| `assets/cover/` | 中式封面 2.35:1 与 1:1，带字与不带字各一份 |
+| `assets/cover/` | 中式封面 2.35:1 与 1:1（已叠字） |
 | `assets/demo/` | 示例长图切段 6 张，对照"一次渲染再切片"的接缝效果 |
 | `resources/gen-ornaments.py` | 重新生成纹样：`python gen-ornaments.py -o out --palette gold|ink|red` |
 | `resources/gen-motion.py` | 重新生成动效：`python gen-motion.py --paper page.png --crop x1,y1,x2,y2` |
